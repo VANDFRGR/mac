@@ -1,0 +1,54 @@
+body {
+    font-family: Montserrat;
+}
+header{
+    background-color:#0776A0;
+    padding:10px;
+   }
+footer{
+    background-color:#0776A0;
+    padding:10px;
+    color: white;
+   }   
+header a{
+    
+   text-decoration: none;
+   background-color: rgb(95, 95, 133);
+   padding:4px;
+   color:white;
+   margin: 30px;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+h1{
+    text-align: center;
+
+    font-size: 48px;
+}
+.galary{
+    height: 250px;
+    
+}
+main{
+    padding: 30px;
+
+}
+p img {
+    
+    padding: 15px 15px 60px 15px;
+}
+h2{
+    
+    text-align: left;
+    font-size: 36px;
+    padding-left: 30px;
+}
+p {
+    font-size: 20px;
+}
